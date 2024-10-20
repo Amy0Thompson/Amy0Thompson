@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning JavaScript.
 - 💞️ I’m looking to collaborate on creating websites.
 - 📫 How to reach me: linkedin.com/in/amy0thompson.
-- ⚡ Fun fact: I am Jamaican-American.
+- ⚡ Fun fact: I am a student at CUNY Lehman.
 
 <!---
 Amy0Thompson/Amy0Thompson is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
