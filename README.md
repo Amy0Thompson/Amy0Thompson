@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning JavaScript.
 - 💞️ I’m looking to collaborate on creating websites.
 - 📫 How to reach me: linkedin.com/in/amy0thompson.
-- ⚡ Fun fact: I am a student at CUNY Lehman.
+- ⚡ Fun fact: I am a student at CUNY Lehman, '28.
 
 <!---
 Amy0Thompson/Amy0Thompson is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
