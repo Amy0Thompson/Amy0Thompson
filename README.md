@@ -1,9 +1,9 @@
-- 👋 Hi, my name is Amy Thompson!
-- 👀 I’m interested in web development.
-- 🌱 I’m currently learning back-end development.
-- 💞️ I’m looking to collaborate on creating websites.
+- 👋 Hi, my name is Amy!
+- 👀 I’m interested in web development, data science, & robotics.
+- 🌱 I’m currently learning data analysis.
+- 💞️ I’m looking to collaborate on hackathons.
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/amy0thompson">my LinkedIn</a>.
-- ⚡ Fun fact: I am a student at CUNY Lehman, '28.
+- ⚡ Fun fact: I love anime and drawing.
 
 <!---
 Amy0Thompson/Amy0Thompson is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
