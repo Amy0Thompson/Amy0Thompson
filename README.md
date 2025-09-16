@@ -1,5 +1,2 @@
-Hello, I am Amy Thompson.
-<br></br>
-I am an undergrad in CS going to graduate in 2028.
-<br></br>
-Career goal: full-time SWE.
+Hi
+![cool-fun](https://github.com/user-attachments/assets/b141b3f5-01f5-4c2b-8b5e-5aff9cdf5b26)
