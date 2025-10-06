@@ -3,6 +3,7 @@
    ![e24](https://github.com/user-attachments/assets/99ec8256-f356-46ab-9687-1f08808c4e95) 
   
   <pre>
+    CS @ CUNY Lehman
 My current programming languages: Java, Python, JavaScript.
 OS: I use Ubuntu (Linux Mint) exclusively at the moment.
 I am open to learning more and collaborating.     </pre>
