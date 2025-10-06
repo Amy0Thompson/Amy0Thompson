@@ -6,7 +6,7 @@
     CS @ CUNY Lehman
 My current programming languages: Java, Python, JavaScript.
 OS: I use Ubuntu (Linux Mint) exclusively at the moment.
-I am open to learning more and collaborating.     </pre>
+Open to learning more and collaborating.     </pre>
   <a href="https://www.linkedin.com/in/amy0thompson/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 
 ![a46](https://github.com/user-attachments/assets/80ab1c07-e345-4e68-989a-f55640276866)    ![a45](https://github.com/user-attachments/assets/64c688e8-1be3-4486-b855-5cb9edcab511)
