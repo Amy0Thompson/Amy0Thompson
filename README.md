@@ -7,7 +7,8 @@
   <pre>
     CS @ CUNY Lehman
 My current programming languages: Java, Python, JavaScript.
-OS: I use Linux Mint exclusively at the moment.
+OS: I use Linux Mint (planning to switch to Arch distro soon).
+IDE: Emacs (Doom distro)
 Open to learning more and collaborating.     </pre>
 
 
